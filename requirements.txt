@@ -1,0 +1,5 @@
+tensorflow-gpu==2.1.0
+pyyaml
+pillow
+h5py==2.10.0
+scikit-learn

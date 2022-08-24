@@ -1,4 +1,4 @@
-# Fault injection with tensorflow 2
+# TensorFI+: A Scalable Fault Injection Framework for Modern Deep Learning Neural Networks
 
 ## Installation
 
@@ -14,5 +14,5 @@ Resolve all the requirements from requirements.txt file.
 Run the following command to test fault injection:
 
 ```
-python3 non_linear_fault_injection_testing.py
+python3 non_sequential_fault_injection_testing.py
 ```
